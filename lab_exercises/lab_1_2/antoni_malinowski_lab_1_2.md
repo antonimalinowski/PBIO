@@ -106,4 +106,60 @@ Ebola virus is bigger than Staphyiococcus and smaller than Rhinovirus.
 
 ## TASK 14
 
-!{Screen for TASK 14}(./materials/images/cell_organelle_memory_match_task_14.png)[width=60%]
+!{Screen for TASK 14}(materials/images/cell_organelle_memory_match_task_14.png)[width=60%]
+
+## TASK 15
+
+The study of genetic profiles of Y chromosome is directed only towards male representatives and is performed by studying genetic markers found on these chromosomes. Since Y chromosomes are passed from father to son unchanged, males can trace their male-line in that way. In contrary, mt-DNA genetic variability test can be performed on both men and women. Mitochondria is passed from mothers to their children therefore people can trace their mother-line ancestry through such test.
+
+## TASK 16
+
+Haplogroup is a human genealogical group sharing common ancestor.
+
+## TASK 17
+
+The country with the most representatives of haplogroup R1a is Poland.
+
+## TASK 18
+
+Examples of famous people who possessed or have R1a haplogroup are:
+
+- actor Tom Hanks
+- scientist and inventor Nikola Tesla
+- Nazi politician Rudolf Hess
+
+## TASK 19
+
+Studies have demonstrated that people with the rs53576 genetic marker are more empathetic, feel less lonely, employ more sensitive parenting techniques and have lower rates of autism.
+
+## TASK 20
+
+People carrying a single copy of genetic marker rs333 are somewhat resistant to HIV infection. Individuals with two copies of this marker were reported to be almost completely immune to HIV infection.
+
+## TASK 21
+
+The three reports that captured my attention the most are:
+
+1. Wellness and Longevity
+2. Personality DNA
+3. DNA Art
+
+## TASK 22
+
+## TASK 23
+
+Dominant trait can be described as stronger and dominant over the generation therefore possibly covering the recessive ("weaker") trait.
+
+## TASK 24
+
+Some of my dominant traits are:
+
+- non-red hair
+- the ability to curl the tongue into a trumpet
+- the presence of dimples in the cheeks
+
+meanwhile some of my recessive traits:
+
+- short eyelashes
+- no freckles
+- light hair
