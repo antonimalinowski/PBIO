@@ -146,6 +146,11 @@ The three reports that captured my attention the most are:
 
 ## TASK 22
 
+The two issues I found the most interesting:
+
+1. It is unethical to administer child adversity in a random way, yet such experiments are performed on animals
+2. During the ice storm in Quebec, Canada in 1998, as the stress for pregnant mothers increased, the children developed stronger autistic traits, more metabolic and sutoimmune diseases
+
 ## TASK 23
 
 Dominant trait can be described as stronger and dominant over the generation therefore possibly covering the recessive ("weaker") trait.
