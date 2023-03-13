@@ -187,4 +187,4 @@ We cannot produce vitamin C. Although, the recipe for producing vitamin C is pre
 
 ## TASK 29
 
-The reason for our inability to produce vitamin C has been put down to evolutionary reasons. Over a very long period of time, we have had access to an abundance of fresh fruit and vegetables. So in the modern day, there is no need for us to produce vitamin C ourselves. The gene that coded for vitamin C synthesis has been 'deactivated'. [Why_cant_humans_produce_vitamin_C](https://getmorevits.com/blogs/news/why-cant-humans-produce-vitamin-c)
+The reason for our inability to produce vitamin C has been put down to evolution. Over a period of thousands of years, we have had access to an abundance of fresh fruit and vegetable, some of them rich in vitamin C. For this reason, in the modern day, there is no need to produce vitamin C ourselves. The gene that coded for vitamin C synthesis has been 'deactivated'. [Why_cant_humans_produce_vitamin_C](https://getmorevits.com/blogs/news/why-cant-humans-produce-vitamin-c)
